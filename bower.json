@@ -1,0 +1,9 @@
+{
+  "name": "socket.io-client",
+  "version": "1.2.1",
+  "main": "./socket.io.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
+
